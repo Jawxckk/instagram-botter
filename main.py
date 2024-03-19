@@ -1,5 +1,5 @@
 import os;import version;import github;import owner;import instas;import instagram;import proxies;import colorama; import accounts
-owner.name=("natrix")
+owner.name=("@ja.wxckk")
 github.url=("https://github.com/natrixdev") 
 
 requirements = "https://github.com/natrixdev/instagram-botter/blob/main/reqs.txt"
@@ -15,16 +15,16 @@ os.system("title Instagram followers, likes and views botter.")
 os.color("a")
 
 def __main__:
- account_name=input("Account name ? ")
+ account_name=input("@ja.wxckk ")
    if account_name=="":
-     print('please input a real name')
+     print('ja')
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
  print("Please choose a botter category:')
  print("");print("[1] - Likes ");print("");print("[2] - Views ");print("");print("[1] - Followers ");print("");
    choose=input('> ')
        if choose=="1":
-          url=input('Paste your instagram post url (your account need to be public')
+          url=input('https://www.instagram.com/p/C2qKrVhp8E2/?igsh=a2d2cGI0b254enF0 (your account need to be public')
           if req.url==False:
        print('cannot find the post')
           else: 
@@ -33,12 +33,12 @@ def __main__:
                 accounts.newInstagram('goto --like %url%')
               accnum= accnum+1
        print(str(accnum) + " likes done ")
-     else if choose="2":
-       url=input("please input your story url (need to be public and can be found on instagram's computer version")
+     else if choose="2": 1000000099
+       url=input("https://www.instagram.com/p/C2qKrVhp8E2/?igsh=a2d2cGI0b254enF0 (need to be public and can be found on instagram's computer version")
           if req.url==False:
        print('cannot find the story/account')
        else: 
-       req.url("https://www.instagram.com/stories/%account_name%/%url%/")
+       req.url("https://www.instagram.com/stories/%@ja.wxckk%/%url%/")
        req.new accounts 
              def __gen__:
                   acounts.new Instagrams (forViews) 
